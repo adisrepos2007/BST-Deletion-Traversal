@@ -26,11 +26,11 @@ This project demonstrates Binary Search Tree (BST) operations using the C progra
 Compile using:
 
 ```bash
-gcc main.c -o bst
+cc main.c
 ```
 
 Run using:
 
 ```bash
-./bst
+./a.out
 ```
